@@ -1,4 +1,4 @@
 # Lambda-IAM-Audit
 This script scans Lambda functions to identify IAM roles with wildcards (*) policies
 
-![](https://i.imgur.com/04waKIc.gif)
+![](https://github.com/4ppsec/Lambda-IAM-Audit/blob/main/demo.gif?raw=true)
